@@ -202,4 +202,4 @@ This project is open-source and available under the MIT License.
 ---
 
 ## Author
-Kartik Mahant"# Customer-Loan-Approval-ML" 
+Kartik Mahant
